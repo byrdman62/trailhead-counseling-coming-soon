@@ -17,8 +17,8 @@ title: Trailhead Counseling and Consulting
 # email: youremailaddress@email.com
 phone: 423-740-0742
 description: A coming soon page for trailheadcounseling.com
-baseurl: "/trailhead-counseling-coming-soon" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://trailheadcounseling.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
 # github_username: 
 
