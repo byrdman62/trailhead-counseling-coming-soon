@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Trailhead Counseling and Consulting
 # email: youremailaddress@email.com
-phone: 423-740-0742
+phone: (423) 740-0742
 description: A coming soon page for trailheadcounseling.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://trailheadcounseling.com" # the base hostname & protocol for your site, e.g. http://example.com
