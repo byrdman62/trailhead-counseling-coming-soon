@@ -5,9 +5,9 @@
 layout: default
 ---
 
-# Coming Soon
+# Under Maintenance
 
-We are currently in the process of creating a website. We appreciate your patience.
+We are currently doing maintenance on the site. We appreciate your patience.
 
 
 ***
